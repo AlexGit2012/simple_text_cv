@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/AlexGit2012/simple_text_cv/static/css/main.58a74033.chunk.css",
+    "main.js": "/AlexGit2012/simple_text_cv/static/js/main.55b84718.chunk.js",
+    "main.js.map": "/AlexGit2012/simple_text_cv/static/js/main.55b84718.chunk.js.map",
+    "runtime-main.js": "/AlexGit2012/simple_text_cv/static/js/runtime-main.a5c62ad2.js",
+    "runtime-main.js.map": "/AlexGit2012/simple_text_cv/static/js/runtime-main.a5c62ad2.js.map",
+    "static/js/2.90a71843.chunk.js": "/AlexGit2012/simple_text_cv/static/js/2.90a71843.chunk.js",
+    "static/js/2.90a71843.chunk.js.map": "/AlexGit2012/simple_text_cv/static/js/2.90a71843.chunk.js.map",
+    "index.html": "/AlexGit2012/simple_text_cv/index.html",
+    "precache-manifest.ca641f43c99d369de1eeb011b302a39d.js": "/AlexGit2012/simple_text_cv/precache-manifest.ca641f43c99d369de1eeb011b302a39d.js",
+    "service-worker.js": "/AlexGit2012/simple_text_cv/service-worker.js",
+    "static/css/main.58a74033.chunk.css.map": "/AlexGit2012/simple_text_cv/static/css/main.58a74033.chunk.css.map",
+    "static/js/2.90a71843.chunk.js.LICENSE.txt": "/AlexGit2012/simple_text_cv/static/js/2.90a71843.chunk.js.LICENSE.txt",
+    "static/media/dot.svg": "/AlexGit2012/simple_text_cv/static/media/dot.748e26fe.svg",
+    "static/media/photo.png": "/AlexGit2012/simple_text_cv/static/media/photo.de2a9158.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5c62ad2.js",
+    "static/js/2.90a71843.chunk.js",
+    "static/css/main.58a74033.chunk.css",
+    "static/js/main.55b84718.chunk.js"
+  ]
+}
